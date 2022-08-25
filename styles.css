@@ -1,0 +1,280 @@
+
+body{
+
+    font-family: sans-serif;
+    background-color: #eeeeee;
+    margin: 0;
+
+}
+
+#header{
+
+    display: flex;
+    background-color: #eeeeee;
+    align-items: center;
+    justify-content: space-between;
+    height: 75px;
+
+}
+
+#header-img{
+
+    padding: 10px;
+    margin-left: 10px;
+    width: 200px;
+    height: 50px;
+
+}
+
+nav{
+
+    font-weight: 600;
+    padding-right: 10px;
+    color: black;
+
+}
+
+.nav-link{
+
+    text-decoration: none;
+    color: #22223B;
+    font-size: 20px;
+    margin-right: 29px;
+
+}
+
+h2{
+
+    font-size: 40px;
+    text-align: center;
+    margin: 3px;
+
+}
+
+#video{
+
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+#email{
+
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 23px;
+    width: 256px;
+    border: 1px solid gray;
+
+}
+
+#submit{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    width: 150px;
+    background-color: #E03C00;
+    font-size: 25px ; 
+    border: 0;
+
+}
+
+.contenet1{
+
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+
+}
+
+.img1{
+ 
+    margin-right: 10px;
+    height: 110px;
+    width: 140px;
+
+}
+
+.p1{
+
+    margin:0;
+
+}
+
+#video{
+
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 315px;
+    width: 560px;
+
+}
+
+.planes{
+
+    text-align: center;
+
+    
+
+}
+
+.plata{
+
+    
+    display: inline-block;
+   
+
+
+}
+
+
+
+.oro{
+
+    display: inline-block;
+   
+
+}
+
+.diamante{
+
+  
+    display: inline-block;
+
+
+    
+}
+
+.plata, .oro, .diamante{
+
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: #e3e3e3e1;
+    height: 300px;
+    width: 220px;
+    border: 1px solid black;
+
+}
+
+.planes .plan{
+
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 25px;
+    display: block;
+    margin: 0;
+    text-align: center;
+    background-color: aqua;
+
+}
+
+.planes .precio{
+
+   
+    display: inline-block;
+    font-size: 30px;
+    margin: 10px;
+
+} 
+
+.planes ol{
+
+    font-size: 19px;
+    text-align: center;
+    padding: 0;
+    text-orientation:sideways;
+
+}
+
+.planes .Splanes{
+
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px;
+    height: 40px;
+    width: 150px;
+    font-size: 25px;
+    border: 1px solid black;
+
+}
+
+footer{
+
+    
+    margin-top: 20px;
+    background-color: #F5C638;;
+    text-align: end;
+
+}
+
+.contacto{
+
+    margin: 0;
+    margin-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.Predes{
+
+    display: inline;
+
+}
+
+.redes, .Fredes{
+
+    margin-left: 10px;
+    color: #E03C00;
+    text-decoration: none;
+
+}
+
+.correo{
+
+    margin: 0;
+    margin-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.contacto, .Fredes, .correo{
+
+    padding-right: 20px;
+
+}
+
+
+
+/* .icon{
+    display: inline-block;
+}
+
+.icon img{
+    width: 140px;
+    height: 110px;
+
+}
+
+.text{
+    display: inline-block;
+}
+
+.text p{
+    height: auto;
+
+
+} */
